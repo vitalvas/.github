@@ -4,7 +4,6 @@ about: Suggest an idea for this project
 title: '[FR]: '
 labels: ''
 assignees: ''
-type: feature
 
 ---
 
